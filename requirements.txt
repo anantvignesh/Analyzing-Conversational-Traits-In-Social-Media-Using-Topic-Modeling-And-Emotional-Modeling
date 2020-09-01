@@ -1,0 +1,10 @@
+numpy
+pandasre
+sysos
+csv
+tensorflow==2.0
+keras
+pickle
+sklearn
+matplotlib
+itertools
